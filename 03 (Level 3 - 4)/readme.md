@@ -51,4 +51,4 @@ Aprendemos a usar o comando la, para encontrar arquivos ocultos.
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%204%20-%205/writeup.md)
+[Ir para o próximo nível](../04%20(Level%204%20-%205)/readme.md)

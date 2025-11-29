@@ -66,4 +66,4 @@ Aprendemos a explorar de modo mais avançado o sistema, e a interpretar shell sc
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%2022%20-%2023/writeup.md)
+[Ir para o próximo nível](../22%20(Level%2022%20-%2023)/readme.md)

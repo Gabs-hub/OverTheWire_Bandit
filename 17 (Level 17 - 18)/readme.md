@@ -39,4 +39,4 @@ Aprendemos a comparar arquivos
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%2018%20-%2019/writeup.md)
+[Ir para o próximo nível](../18%20(Level%2018%20-%2019)/readme.md)

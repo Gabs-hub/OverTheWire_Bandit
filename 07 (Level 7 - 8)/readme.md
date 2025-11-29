@@ -37,4 +37,4 @@ Aprendemos a usar o comando grep para capturar uma linha específica.
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%208%20-%209/writeup.md)
+[Ir para o próximo nível](../08%20(Level%208%20-%209)/readme.md)

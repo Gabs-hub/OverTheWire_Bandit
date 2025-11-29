@@ -63,4 +63,4 @@ Aprendemos a fazer um script simples de bruteforce, muito é massa véi.
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%2025%20-%2026/writeup.md)
+[Ir para o próximo nível](../25%20(Level%2025%20-%2026)/readme.md)

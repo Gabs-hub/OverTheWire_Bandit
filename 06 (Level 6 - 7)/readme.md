@@ -51,4 +51,4 @@ Aprendemos mais uma variação do find, localizando por grupo e por usuário.
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%207%20-%208/writeup.md)
+[Ir para o próximo nível](../07%20(Level%207%20-%208)/readme.md)

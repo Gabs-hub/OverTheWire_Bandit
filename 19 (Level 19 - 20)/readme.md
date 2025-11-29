@@ -43,4 +43,4 @@ Aprendemos a rodar binários pelo terminal, muito massa.
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%2020%20-%2021/writeup.md)
+[Ir para o próximo nível](../20%20(Level%2020%20-%2021)/readme.md)

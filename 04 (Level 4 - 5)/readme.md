@@ -61,4 +61,4 @@ Aprendemos a listar e identificar o tipo dos arquivos em um diretório.
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%205%20-%206/writeup.md)
+[Ir para o próximo nível](../05%20(Level%205%20-%206)/readme.md)

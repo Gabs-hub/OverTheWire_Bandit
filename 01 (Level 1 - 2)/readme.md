@@ -37,4 +37,4 @@ Aprendemos a acessar arquivos com caracteres especiais, essencial para quem trab
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%202%20-%203/writeup.md)
+[Ir para o próximo nível](../02%20(Level%202%20-%203)/readme.md)

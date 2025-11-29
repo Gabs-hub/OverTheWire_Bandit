@@ -32,4 +32,4 @@ Run a command as another user.
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%2027%20-%2028/writeup.md)
+[Ir para o próximo nível](../27%20(Level%2027%20-%2028)/readme.md)

@@ -49,4 +49,4 @@ Aprendemos a nos conectar via ssh por meio de uma chave privada.
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%2014%20-%2015/writeup.md)
+[Ir para o próximo nível](../14%20(Level%2014%20-%2015)/readme.md)

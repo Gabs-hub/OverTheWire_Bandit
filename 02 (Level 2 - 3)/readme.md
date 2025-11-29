@@ -42,4 +42,4 @@ Aprendemos novas formas de capturar arquivos com caracteres especiais.
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%203%20-%204/writeup.md)
+[Ir para o próximo nível](../03%20(Level%203%20-%204)/readme.md)

@@ -37,4 +37,4 @@ Aprendemos a usar o comando cat, ferramenta básica mas fundamental para acessar
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%201%20-%202/writeup.md)
+[Ir para o próximo nível](../01%20(Level%201%20-%202)/readme.md)

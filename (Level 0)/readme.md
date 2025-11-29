@@ -45,4 +45,4 @@ O level 0 é bem simples, apenas aprendemos à estabelecer uma conexão SSH. Ess
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%200%20-%201/writeup.md)
+[Ir para o próximo nível](../00%20(Level%200%20-%201)/readme.md)

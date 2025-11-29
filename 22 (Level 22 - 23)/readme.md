@@ -74,4 +74,4 @@ Potencializamos o entendimento em shell script, com uma análise mais aprofundad
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%2023%20-%2024/writeup.md)
+[Ir para o próximo nível](../23%20(Level%2023%20-%2024)/readme.md)

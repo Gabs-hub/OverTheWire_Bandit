@@ -52,4 +52,4 @@ Aprendemos a usar o comando find e suas flags para encontrar arquivos específic
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%207%20-%206/writeup.md)
+[Ir para o próximo nível](../06%20(Level%206%20-%207)/readme.md)

@@ -121,4 +121,4 @@ Aprendemos muita coisa nesse nível, desde análise e criação de shell-script 
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%2024%20-%2025/writeup.md)
+[Ir para o próximo nível](../24%20(Level%2024%20-%2025)/readme.md)

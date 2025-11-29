@@ -119,4 +119,4 @@ Se quiser pegar a senha em `/etc/bandit_pass/bandit26`, pode arrochar, mas eu pa
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%2026%20-%2027/writeup.md)
+[Ir para o próximo nível](../26%20(Level%2026%20-%2027)/readme.md)

@@ -38,4 +38,4 @@ Aprendemos a usar o comando strings para ler arquivos binários.
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%2010%20-%2011/writeup.md)
+[Ir para o próximo nível](../10%20(Level%2010%20-%2011)/readme.md)

@@ -38,4 +38,4 @@ Aprendemos a usar comandos no mesmo instante que conetamos pelo ssh, conheciment
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../Level%2019%20-%2020/writeup.md)
+[Ir para o próximo nível](../19%20(Level%2019%20-%2020)/readme.md)
