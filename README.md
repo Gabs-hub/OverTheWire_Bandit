@@ -4,7 +4,7 @@ Este repositório contém minhas resolucoes dos desafios do **OverTheWire Bandit
 
 ## 🎯 Objetivo
 
-Registrar passo a passo as solucoes encontradas para cada nível, reforçando o aprendizado de:
+Registrar passo a passo as soluções encontradas para cada nível, reforçando o aprendizado de:
 
 * Navegação no sistema de arquivos
 * Manipulação de arquivos
