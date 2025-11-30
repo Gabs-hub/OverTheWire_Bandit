@@ -42,4 +42,4 @@ Aprendemos a clonar um repositório com git clone e ssh.
 
 ## 🔗 Próximo Nível
 
-[Ir para o próximo nível](../28%20(Level%2028%20-%2029)/writeup.md)
+[Ir para o próximo nível](../28%20(Level%2028%20-%2029)/readme.md)
