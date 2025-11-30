@@ -1,4 +1,4 @@
-# Resolucoes OverTheWire: Bandit
+# Resoluções OverTheWire: Bandit
 
 Este repositório contém minhas resolucoes dos desafios do **OverTheWire Bandit**, uma série de exercícios focados em comandos Linux, segurança básica e exploração de arquivos e permissões. O Bandit é um wargame introdutório do OverTheWire que ensina fundamentos essenciais de hacking ético e linha de comando.
 
