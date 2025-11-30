@@ -2,7 +2,7 @@
 
 Este repositório contém minhas resolucoes dos desafios do **OverTheWire Bandit**, uma série de exercícios focados em comandos Linux, segurança básica e exploração de arquivos e permissões. O Bandit é um wargame introdutório do OverTheWire que ensina fundamentos essenciais de hacking ético e linha de comando.
 
-## Objetivo
+## 🎯 Objetivo
 
 Registrar passo a passo as solucoes encontradas para cada nível, reforçando o aprendizado de:
 
@@ -12,7 +12,7 @@ Registrar passo a passo as solucoes encontradas para cada nível, reforçando o 
 * Uso de pipelines e filtros
 * Ferramentas essenciais do terminal
 
-## Estrutura
+## 🧱 Estrutura
 
 Cada nível possui:
 
@@ -20,12 +20,12 @@ Cada nível possui:
 * **Comandos utilizados**
 * **Explicação da lógica**
 
-## Observação Importante
+## 🔍 Observação Importante
 
 Este repositório **NÃO** conterá as senhas dos níveis. O objetivo é explicar a **LÓGICA**, os **COMANDOS** usados e o **RACIOCÍNIO** para resolver cada desafio. Se quiser descobrir as senhas, jogue o Bandit por conta própria.
 
 ---
 
-# Informações Adicionais
+# 📄 Informações Adicionais
 
-Sinta-se à vontade para acompanhar as solucoes, comparar com as suas ou utilizar como guia de estudo.
+Sinta-se à vontade para acompanhar as soluções, comparar com as suas ou utilizar como guia de estudo.
